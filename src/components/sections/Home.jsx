@@ -12,7 +12,7 @@ export const Home = () => {
 
                     <p className="text-gray-400 text-lg mb-6 max-w-lg mx-auto">
                         I am a 4th-year BS Computer Science student of Holy Angel University 
-                        with an experienced in backend development, primarily using Python and Java
+                        with an experience in backend development, primarily using Python and Java
                         and familiar with frontend development, utilizing JavaScript, JSX, and
                         React to create responsive and interactive web applications.
                     </p>
