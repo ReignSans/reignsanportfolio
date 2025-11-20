@@ -4,7 +4,7 @@ import portrait from "../../assets/Santos_Reign.png";
 export const Home = () => {
 
     return(
-        <section id="home" className="min-h-screen flex items-center justify-center relative">
+        <section id="home" className="min-h-screen flex items-center justify-center relative pt-16 scroll-mt-16">
             <RevealOnScroll>
                 <div className="flex flex-col md:flex-row items-center justify-center z-10 px-4 gap-8">
                     <div className="md:w-1/2 text-center md:text-left">
