@@ -87,6 +87,14 @@ export const About = () => {
                                 </li>
                                 <p>Oversaw the operations, coordinated events, and managed teams 
                                 to ensure smooth execution of plans in the organization.</p>
+                                <li>
+                                    <strong>Game Programmer Intern</strong>
+                                </li>
+                                <li>
+                                    RLUX Studios (2025-Present)
+                                </li>
+                                <p>Oversaw the operations, coordinated events, and managed teams 
+                                to ensure smooth execution of plans in the organization.</p>
                             </ul>
                         </div>
                     </div> 
