@@ -91,7 +91,7 @@ export const About = () => {
                                     <strong>Game Programmer Intern</strong>
                                 </li>
                                 <li>
-                                    RLUX Studios (2025-Present)
+                                    RLUX Studios (Dec 2025-Mar 2026)
                                 </li>
                                 <p>Oversaw the operations, coordinated events, and managed teams 
                                 to ensure smooth execution of plans in the organization.</p>
