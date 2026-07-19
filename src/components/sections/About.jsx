@@ -31,7 +31,7 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-6">
-                            A 4th-year BS Computer Science student with experience in backend development, 
+                            A recent graduate BS Computer Science student with experience in backend development, 
                             database management, and modern web technologies. Passionate to develop applications
                             and create innovative projects.
                         </p>
