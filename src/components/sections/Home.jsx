@@ -13,7 +13,7 @@ export const Home = () => {
                         </h1>
 
                         <p className="text-gray-400 text-lg mb-6 max-w-lg mx-auto md:mx-0">
-                            I am a 4th-year BS Computer Science student of Holy Angel University 
+                            I am a recent graduate of BS Computer Science student of Holy Angel University 
                             with an experience in backend development, primarily using Python and Java
                             and familiar with frontend development, utilizing JavaScript, JSX, and
                             React to create responsive and interactive web applications.
